@@ -1,0 +1,295 @@
+day,plate,well,student,blank
+Tuesday,A,B1,Sana Alayoubi,FALSE
+Tuesday,A,B2,Sana Alayoubi,FALSE
+Tuesday,A,B3,Sana Alayoubi,TRUE
+Tuesday,A,B4,Sana Alayoubi,TRUE
+Tuesday,A,B9,Janet Wu,FALSE
+Tuesday,A,B10,Janet Wu,FALSE
+Tuesday,A,B11,Janet Wu,TRUE
+Tuesday,A,B12,Janet Wu,TRUE
+Tuesday,B,G1,Simon Rai,FALSE
+Tuesday,B,G2,Simon Rai,FALSE
+Tuesday,B,G3,Simon Rai,TRUE
+Tuesday,B,G4,Simon Rai,TRUE
+Tuesday,B,C1,Kevin Wang,FALSE
+Tuesday,B,C2,Kevin Wang,FALSE
+Tuesday,B,C3,Kevin Wang,TRUE
+Tuesday,B,C4,Kevin Wang,TRUE
+Wednesday,A,C3,Haohua Li,FALSE
+Wednesday,A,C4,Haohua Li,FALSE
+Wednesday,A,D3,Haohua Li,TRUE
+Wednesday,A,D4,Haohua Li,TRUE
+Thursday,A,C1,Alice Wang ,TRUE
+Thursday,A,D1,Alice Wang ,TRUE
+Thursday,A,C2,Alice Wang ,FALSE
+Thursday ,A,D2,Alice Wang ,FALSE
+Thursday,B,C9,Ali Tavakoli Hedayatpour,FALSE
+Thursday,B,C10,Ali Tavakoli Hedayatpour,FALSE
+Thursday,B,C11,Ali Tavakoli Hedayatpour,TRUE
+Thursday,B,C12,Ali Tavakoli Hedayatpour,TRUE
+Tuesday,A,A1,Ishana Lodhia,FALSE
+Tuesday,A,A2,Ishana Lodhia,FALSE
+Tuesday,A,A3,Ishana Lodhia,TRUE
+Tuesday,A,A4,Ishana Lodhia,TRUE
+Wednesday,B,B1,Dana Lao,FALSE
+Wednesday,B,B2,Dana Lao,FALSE
+Wednesday,B,B3,Dana Lao,TRUE
+Wednesday,B,B4,Dana Lao,TRUE
+Thursday,B,A9,Haein Kim ,FALSE
+Thursday,B,A10,Haein Kim ,FALSE
+Thursday,B,A11,Haein Kim ,TRUE
+Thursday,B,A12,Haein Kim ,TRUE
+Thursday,B,H9,Dennis Xie,FALSE
+Thursday,B,H10,Dennis Xie,FALSE
+Thursday,B,H11,Dennis Xie,TRUE
+Thursday,B,H12,Dennis Xie,TRUE
+Thursday,A,A1,Vincent Hsiung,TRUE
+Thursday,A,B1,Vincent Hsiung,TRUE
+Thursday,A,A2,Vincent Hsiung,FALSE
+Thursday,A,B2,Vincent Hsiung,FALSE
+Tuesday,A,E9,Rochelle Guan,FALSE
+Tuesday,A,E10,Rochelle Guan,FALSE
+Tuesday,A,E11,Rochelle Guan,TRUE
+Tuesday,A,E12,Rochelle Guan,TRUE
+Thursday,B,E1,Lina Shalaby ,TRUE
+Thursday,B,E2,Lina Shalaby,TRUE
+Thursday,B,E4,Lina Shalaby,FALSE
+Thursday,B,E5,Lina Shalaby,FALSE
+Thursday,A,A3,Elliott Gee,TRUE
+Thursday,A,B3,Elliott Gee,TRUE
+Thursday,A,A4,Elliott Gee,FALSE
+Thursday,A,B4,Elliott Gee,FALSE
+Wednesday,A,C1,Qingyue Guo,FALSE
+Wednesday,A,C2,Qingyue Guo,FALSE
+Wednesday,A,D1,Qingyue Guo,TRUE
+Wednesday,A,D2,Qingyue Guo,TRUE
+Wednesday,A,A1,katerina Lin,FALSE
+Wednesday,A,A2,katerina Lin,FALSE
+Wednesday,A,B1,katerina Lin,TRUE
+Wednesday,A,B2,Katerina Lin,TRUE
+Thursday,B,C1,Iris Zhou,TRUE
+Thursday,B,C2,Iris Zhou,TRUE
+Thursday,B,C4,Iris Zhou,FALSE
+Thursday,B,C5,Iris Zhou,FALSE
+Tuesday,A,E1,Mark Wang,FALSE
+Tuesday,A,E2,Mark Wang,FALSE
+Tuesday,A,E3,Mark Wang,TRUE
+Tuesday,A,E4,Mark Wang,TRUE
+Wednesday,B,A1,Eleanor Campbell,TRUE
+Wednesday,B,A2,Eleanor Campbell,TRUE
+Wednesday,B,A3,Eleanor Campbell,FALSE
+Wednesday,B,A4,Eleanor Campbell,FALSE
+Wednesday,B,E1,Melody Li,FALSE
+Wednesday,B,E2,Melody Li,FALSE
+Wednesday,B,E3,Melody Li,TRUE
+Wednesday,B,E4,Melody Li,TRUE
+Thursday,B,D1,Renee Lim,TRUE
+Thursday,B,D2,Renee Lim,TRUE
+Thursday,B,D3,Renee Lim,FALSE
+Thursday,B,D4,Renee Lim,FALSE
+Thursday,B,A5,Kai Leong,FALSE
+Thursday,B,A6,Kai Leong,FALSE
+Thursday,B,A7,Kai Leong,TRUE
+Thursday,B,A8,Kai Leong,TRUE
+Thursday,B,B1,Loujain Bilal,TRUE
+Thursday,B,B2,Loujain Bilal,TRUE
+Thursday,B,B3,Loujain Bilal,FALSE
+Thursday,B,B4,Loujain Bilal,FALSE
+Wednesday,A,A5,Risa Fox,FALSE
+Wednesday,A,A6,Risa Fox,FALSE
+Wednesday,A,B5,Risa Fox,TRUE
+Wednesday,A,B6,Risa Fox,TRUE
+Wednesday,A,A7,Kyla Kohara,TRUE
+Wednesday,A,A8,Kyla Kohara,TRUE
+Wednesday,A,B7,Kyla Kohara,FALSE
+Wednesday,A,B8,Kyla Kohara,FALSE
+Tuesday,A,E5,Ryan Wall,FALSE
+Tuesday,A,E6,Ryan Wall,FALSE
+Tuesday,A,E7,Ryan Wall,TRUE
+Tuesday,A,E8,Ryan Wall,TRUE
+Thursday,B,B9,Samantha Allum,FALSE
+Thursday,B,B10,Samantha Allum,FALSE
+Thursday,A,A5,Sheila Lam ,TRUE
+Thursday,A,A6,Sheila Lam ,FALSE
+Thursday,A,B5,Sheila Lam ,TRUE
+Thursday,A,B6,Sheila Lam ,FALSE
+Thursday,B,H1,Aaron Fos-oy,TRUE
+Thursday,B,H2,Aaron Fos-oy,TRUE
+Thursday,B,H3,Aaron Fos-oy,FALSE
+Thursday,B,H4,Aaron Fos-oy,FALSE
+Wednesday,B,C1,Sarah Zhang,TRUE
+Wednesday,B,C2,Sarah Zhang,TRUE
+Wednesday,B,C3,Sarah Zhang,FALSE
+Wednesday,B,C4,Sarah Zhang,FALSE
+Thursday,A,E5,Parsa Khatami,TRUE
+Thursday,A,E6,Parsa Khatami,TRUE
+Thursday,A,F5,Parsa Khatami,FALSE
+Thursday,A,F6,Parsa Khatami,FALSE
+Wednesday,B,F1,Max Bremner,TRUE
+Wednesday,B,F2,Max Bremner,TRUE
+Wednesday,B,F3,Max Bremner,FALSE
+Wednesday,B,F4,Max Bremner,FALSE
+Wednesday,B,B5,Alicia Zhang,TRUE
+Wednesday,B,B6,Alicia Zhang,TRUE
+Wednesday,B,B7,Alicia Zhang,FALSE
+Wednesday,B,B8,Alicia Zhang,FALSE
+Tuesday,B,A1,Navneet Kaur,TRUE
+Tuesday,B,A2,Navneet Kaur,TRUE
+Tuesday,B,A3,Navneet Kaur,FALSE
+Tuesday,B,A4,Navneet Kaur,FALSE
+Thursday,A,C3,Cayden Yu,TRUE
+Thursday,A,C4,Cayden Yu,TRUE
+Thursday,A,D3,Cayden Yu,FALSE
+Thursday,A,D4,Cayden Yu,FALSE
+Wednesday,A,C5,Nicole Cormack ,TRUE
+Wednesday,A,C6,Nicole Cormack,TRUE
+Wednesday,A,D5,Nicole Cormack ,FALSE
+Wednesday,A,D6,Nicole Cormack,FALSE
+Wednesday,A,E1,Apsara Srinivas,TRUE
+Wednesday,A,E2,Apsara Srinivas,TRUE
+Wednesday,A,F1,Apsara Srinivas,FALSE
+Wednesday,A,F2,Apsara Srinivas,FALSE
+Tuesday,A,C9,Kevin Zhang,FALSE
+Tuesday,A,C10,Kevin Zhang,FALSE
+Tuesday,A,C11,Kevin Zhang,TRUE
+Tuesday,A,C12,Kevin Zhang,TRUE
+Thursday,B,F1,Darius Parmar,TRUE
+Thursday,B,F2,Darius Parmar,TRUE
+Thursday,B,F3,Darius Parmar,FALSE
+Thursday,B,F4,Darius Parmar,FALSE
+Tuesday,A,A9,Alisa Li,FALSE
+Tuesday,A,A10,Alisa Li,FALSE
+Tuesday,A,A11,Alisa Li,TRUE
+Tuesday,A,A12,Alisa Li,TRUE
+Tuesday,A,C1,Alissa Gama,FALSE
+Tuesday,A,C2,Alissa Gama,FALSE
+Tuesday,A,C3,Alissa Gama,TRUE
+Tuesday,A,C4,Alissa Gama,TRUE
+Thursday,B,A1,Ali Zaidi,TRUE
+Thursday,B,A2,Ali Zaidi,TRUE
+Thursday,B,A3,Ali Zaidi,FALSE
+Thursday,B,A4,Ali Zaidi,FALSE
+Tuesday,B,F1,Mairi MacAulay,FALSE
+Tuesday,B,F2,Mairi MacAulay,FALSE
+Tuesday,B,F3,Mairi MacAulay,TRUE
+Tuesday,B,F4,Mairi MacAulay,TRUE
+Tuesday,A,D5,Zee Muradi,TRUE
+Tuesday,A,D6,Zee Muradi,TRUE
+Tuesday,A,D7,Zee Muradi,FALSE
+Tuesday,A,D8,Zee Muradi,FALSE
+Tuesday,B,E1,Jenine Hira,FALSE
+Tuesday,B,E2,Jenine Hira,FALSE
+Tuesday,B,E3,Jenine Hira,TRUE
+Tuesday,B,E4,Jenine Hira,TRUE
+Wednesday,A,A3,Annabel Chen,FALSE
+Wednesday,A,A4,Annabel Chen,FALSE
+Wednesday,A,B3,Annabel Chen,TRUE
+Wednesday,A,B4,Annabel Chen,TRUE
+Tuesday,A,D9,Ziniu Chen ,TRUE
+Tuesday,A,D10,Ziniu Chen ,TRUE
+Tuesday,A,D11,Ziniu Chen ,FALSE
+Tuesday,A,D12,Ziniu Chen ,FALSE
+Wednesday,B,D5,Kshemaka Gunawardena,FALSE
+Wednesday,B,D6,Kshemaka Gunawardena,FALSE
+Wednesday,B,D7,Kshemaka Gunawardena,TRUE
+Wednesday,B,D8,Kshemaka Gunawardena,TRUE
+Thursday,A,E1,Kishor Sivanesan ,TRUE
+Thursday,A,F1,Kishor Sivanesan ,TRUE
+Thursday,A,E2,Kishor Sivanesan ,FALSE
+Thursday,A,F2,Kishor Sivanesan ,FALSE
+Tuesday,A,B5,Kimia Rostin,FALSE
+Tuesday,A,B6,Kimia Rostin,FALSE
+Tuesday,A,B7,Kimia Rostin,TRUE
+Tuesday,A,B8,Kimia Rostin,TRUE
+Wednesday,B,C5,Imogen Porter,TRUE
+Wednesday,B,C6,Imogen Porter,TRUE
+Wednesday,B,C7,Imogen Porter,FALSE
+Wednesday,B,C8,Imogen Porter,FALSE
+Tuesday,B,B5,Jayden Liu,FALSE
+Tuesday,B,B6,Jayden Liu,FALSE
+Tuesday,B,C5,Jayden Liu,TRUE
+Tuesday,B,C6,Jayden Liu,TRUE
+Tuesday,B,B1,Ghazaleh shoaib,FALSE
+Tuesday,B,B2,Ghazaleh shoaib,FALSE
+Tuesday,B,B3,Ghazaleh shoaib,TRUE
+Tuesday,B,B4,Ghazaleh shoaib,TRUE
+Wednesday,A,F7,Ashnoor Arora,TRUE
+Wednesday,A,F8,Ashnoor Arora,TRUE
+Wednesday,A,G7,Ashnoor Arora,FALSE
+Wednesday,A,G8,Ashnoor Arora,FALSE
+Tuesday,A,A5,Aiko Job,TRUE
+Tuesday,A,A6,Aiko Job,TRUE
+Tuesday,A,A7,Aiko Job,FALSE
+Tuesday,A,A8,Aiko Job,FALSE
+Wednesday ,A,G1,Emily Moffat,FALSE
+Wednesday ,A,G2,Emily Moffat,FALSE
+Wednesday ,A,G3,Emily Moffat,TRUE
+Wednesday ,A,G4,Emily Moffat,TRUE
+Tuesday,B,D1,Aiden Simard,FALSE
+Tuesday,B,D2,Aiden Simard,FALSE
+Tuesday,B,D3,Aiden Simard,TRUE
+Tuesday,B,D4,Aiden Simard,TRUE
+Wednesday,A,E3,Sharisse Chan,FALSE
+Wednesday,A,E4,Sharisse Chan,FALSE
+Wednesday,A,F3,Sharisse Chan,TRUE
+Wednesday,A,F4,Sharisse Chan,TRUE
+Wednesday,A,H1,Jenny Zhang,TRUE
+Wednesday,A,H2,Jenny Zhang,TRUE
+Wednesday,A,H3,Jenny Zhang,FALSE
+Wednesday,A,H4,Jenny Zhang,FALSE
+Wednesday,A,F5,Parvin Malhi,FALSE
+Wednesday,A,F6,Parvin Malhi,FALSE
+Wednesday,A,G5,Parvin Malhi,TRUE
+Wednesday,A,G6,Parvin Malhi,TRUE
+Tuesday,A,D1,Rachel Leong,FALSE
+Tuesday,A,D2,Rachel Leong,FALSE
+Tuesday,A,D3,Rachel Leong,TRUE
+Tuesday,A,D4,Rachel Leong,TRUE
+Wednesday,A,C7,Jordon Chen,FALSE
+Wednesday,A,C8,Jordon Chen,FALSE
+Wednesday,A,E7,Jordon Chen,TRUE
+Wednesday,A,E8,Jordon Chen,TRUE
+Wednesday,A,H5,Nidhin Biju,FALSE
+Wednesday,A,H6,Nidhin Biju,FALSE
+Wednesday,A,H7,Nidhin Biju,TRUE
+Wednesday,A,H8,Nidhin Biju,TRUE
+Wednesday,B,D1,Renz Po,TRUE
+Wednesday,B,D2,Renz Po,TRUE
+Wednesday,B,D3,Renz Po,FALSE
+Wednesday,B,D4,Renz Po,FALSE
+Thursday,B,B5,Kris Chen,FALSE
+Thursday,B,B6,Kris Chen,FALSE
+Thursday,B,B7,Kris Chen,TRUE
+Thursday,B,B8,Kris Chen,TRUE
+Thursday,A,C5,Tiffany Wai,TRUE
+Thursday,A,C6,Tiffany Wai,FALSE
+Thursday,A,D5,Tiffany Wai,TRUE
+Thursday,A,D6,Tiffany Wai,FALSE
+Tuesday,A,C5,Maya Ruehlen,FALSE
+Tuesday,A,C6,Maya Ruehlen,FALSE
+Tuesday,A,C7,Maya Ruehlen,TRUE
+Tuesday,A,C8,Maya Ruehlen,TRUE
+Thursday,B,G1,Byron Wang,TRUE
+Thursday,B,G2,Byron Wang,TRUE
+Thursday,B,G3,Byron Wang,FALSE
+Thursday,B,G4,Byron Wang,FALSE
+Thursday,A,G1,Ekroop Sohal,FALSE
+Thursday,A,H1,Ekroop Sohal,FALSE
+Thursday,A,G2,Ekroop Sohal,TRUE
+Thursday,A,H2,Ekroop Sohal,TRUE
+Tuesday,B,H1,John Goh,FALSE
+Tuesday,B,H2,John Goh,FALSE
+Tuesday,B,H3,John Goh,TRUE
+Tuesday,B,H4,John Goh,TRUE
+Thursday,A,E3,Sana Samadi,TRUE
+Thursday,A,E4,Sana Samadi,TRUE
+Thursday,A,F3,Sana Samadi,FALSE
+Thursday,A,F4,Sana Samadi,FALSE
+Thursday,A,G3,Ekaterina Galysheva ,FALSE
+Thursday,A,H3,Ekaterina Galysheva ,FALSE
+Thursday,A,G4,Ekaterina Galysheva ,TRUE
+Thursday,A,H4,Ekaterina Galysheva ,TRUE
+Tuesday,B,C7,Martin Joo,FALSE
+Tuesday,B,C8,Martin Joo,FALSE
+Tuesday,B,C9,Martin Joo,TRUE
+Tuesday,B,C10,Martin Joo,TRUE
