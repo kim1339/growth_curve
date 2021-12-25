@@ -31,13 +31,8 @@ min_blank <- min(blank_only$mean_OD600)
 # calibrate OD600 measurements
 growth_data <- mutate(growth_data, net_OD600 = mean_OD600 - min_blank)
 
-# visualize curve and label phases of growth
+# visualize growth curve
 ggplot(growth_data,
        aes(x = Time, y = net_OD600, colour = blank)) +
   geom_point() + 
-  labs(x = "Time (h:m:s)", y = "OD600") +
-  geom_vline(xintercept = hms("00:00:00")) +
-  geom_vline(xintercept = hms("02:45:00")) +
-  geom_vline(xintercept = hms("16:00:00")) +
-  annotate("text", x = hms("9:00:00"), y = 0.6, label = "Stationary Phase") +
-  annotate("text", x = hms("1:25:00"), y = 0.55, label = "Log\nPhase")
+  labs(x = "Time (h:m:s)", y = "OD600") + ggtitle('E. coli B23 Growth Curve @ 37 C in Aerobic Conditions')
